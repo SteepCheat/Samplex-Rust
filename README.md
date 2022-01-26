@@ -6,8 +6,8 @@ this project is a videogame cheat, I made this to research and learn more about 
 # Who can use this project?
 anyone can use, modify and distribute this project, all I ask is that you give credit where its due.
 
-# Is this detected?
-yes of course it is detected, there are many obvious detection vectors marked in the code.
+# Is this 'detected'?
+yes of course it is detected, there are many obvious detection vectors marked in the code. Dont expect to use this on real rust without getting banned!
 
 # Can I DM you on discord asking for assitance with this?
 NO! This project is not reciving ANY further updates, if an issue arrises someone can submit an issue on github, if I have time I can answere it.
