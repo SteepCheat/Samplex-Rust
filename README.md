@@ -13,7 +13,7 @@ yes of course it is detected, there are many obvious detection vectors marked in
 NO! This project is not reciving ANY further updates, if an issue arrises someone can submit an issue on github, if I have time I can answere it.
 
 * What features are included in this?
--  Box ESP, Health Bar ESP, Name ESP, Weapon ESP, Chams ESP, Sleeping ESP
--  unfinished antikick, FakeAdmin, Recoil Reduction Slider
+| Box ESP, Health Bar ESP, Name ESP, Weapon ESP, Chams ESP, Sleeping ESP
+| unfinished antikick, FakeAdmin, Recoil Reduction Slider
 
 Hopefully someone learns a thing or two from this repo, thanks for viewing it!
