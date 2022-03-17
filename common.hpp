@@ -30,4 +30,3 @@ BasePlayer* localPlayer;
 #else
 #define DEBUG 0
 #endif
-//I want to kill myself -notSam 10/18/2021
